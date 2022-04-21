@@ -1,0 +1,241 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1424px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 174px;
+  background-image: none;
+  margin: 37px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 29px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.875rem;
+  margin: 5px 31px 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin: 31px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 643px;
+  pointer-events: auto;
+  background-image: url("images/OSN_idei_biznesa.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 338px;
+  pointer-events: auto;
+  background-image: url("images/Koli_biznes_shvidko_zrostaye-1920x1206-removebg.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 323px;
+  pointer-events: auto;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 10px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.375rem;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-group-2 {
+  min-height: 448px;
+  margin: 22px auto 37px 0;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 21px 40px 20px 35px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.6875rem;
+  margin: 0;
+}
+
+.u-section-1 .u-text-5 {
+  line-height: 1.6;
+  font-size: 1.4375rem;
+  margin: 22px 62px 0 22px;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.6875rem;
+  line-height: 1.4;
+  margin: 33px 130px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1308px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 72px;
+    margin-left: 72px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 600px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 300px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 266px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2102px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 54px;
+    margin-right: 54px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1792px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-left: 43px;
+    margin-right: 43px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1447px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.25rem;
+    margin-left: 26px;
+    margin-right: 26px;
+  }
+}
